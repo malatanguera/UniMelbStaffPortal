@@ -1,0 +1,16 @@
+C:\dev\UATLogin\UATLogin\bin\Debug\UATLogin.dll.config
+C:\dev\UATLogin\UATLogin\bin\Debug\UATLogin.dll
+C:\dev\UATLogin\UATLogin\bin\Debug\UATLogin.pdb
+C:\dev\UATLogin\UATLogin\bin\Debug\Dapper.dll
+C:\dev\UATLogin\UATLogin\bin\Debug\nunit.framework.dll
+C:\dev\UATLogin\UATLogin\bin\Debug\System.Configuration.Abstractions.dll
+C:\dev\UATLogin\UATLogin\bin\Debug\WebDriver.dll
+C:\dev\UATLogin\UATLogin\bin\Debug\WebDriver.Support.dll
+C:\dev\UATLogin\UATLogin\bin\Debug\Dapper.xml
+C:\dev\UATLogin\UATLogin\bin\Debug\nunit.framework.xml
+C:\dev\UATLogin\UATLogin\bin\Debug\System.Configuration.Abstractions.pdb
+C:\dev\UATLogin\UATLogin\bin\Debug\WebDriver.xml
+C:\dev\UATLogin\UATLogin\bin\Debug\WebDriver.Support.xml
+C:\dev\UATLogin\UATLogin\obj\Debug\UATLogin.dll
+C:\dev\UATLogin\UATLogin\obj\Debug\UATLogin.pdb
+C:\dev\UATLogin\UATLogin\obj\Debug\UATLogin.csprojResolveAssemblyReference.cache
